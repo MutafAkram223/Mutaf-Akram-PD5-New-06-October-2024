@@ -9,7 +9,7 @@ int sum() {
     return value1 + value2;
 }
 
-int main() {
+main() {
     int x = value1;
     value1 = 100;
     x = 20;
